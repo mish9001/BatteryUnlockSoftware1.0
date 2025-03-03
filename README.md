@@ -25,12 +25,16 @@ Maybe you can mention me or this repo in the acknowledgements too
 <!-- About the Project -->
 ## About the Project
 
+Vodacom has noticed an increase in the number of battery theft and vandalism incidents on its base stations in certain parts of the country.
+"Battery theft and vandalism at our base stations continues to be a huge challenge for the telco sector. Although incidents of battery theft and vandalism have been stable in some regions with no significant increase in the amount of incidents being experienced, in September alone our operations in KwaZulu-Natal, Mpumalanga and Northern Gauteng regions recorded the highest number of attempted thefts, each accounting for 40% or more of such incidents. These criminal activities cause disruptions to network services, resulting in frequent downtime for customers. The consequences go beyond the costs of repairing and restoring infrastructure. They have a significant impact on communities that depend on connectivity as a vital lifeline," says Johan van Graan, Chief Risk Officer at Vodacom Group.
+
+
 
 <!-- Screenshots -->
-### Screenshots
+### Existing Solution
 
-<div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+<div align="left"> 
+   <img src="BatteryUnlockSoftware1.0/Vodacom icon.png" alt="logo" width="150" height="auto" />
 </div>
 
 
