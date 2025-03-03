@@ -34,7 +34,18 @@ Vodacom has noticed an increase in the number of battery theft and vandalism inc
 ### Existing Solution
 
 <div align="left"> 
-   <img src="BatteryUnlockSoftware1.0/Vodacom icon.png" alt="logo" width="150" height="auto" />
+  <h3>Epoxy with outer shell covering; Known as a "Big-Red"</h3>
+   <img src="BatteryUnlockSoftware1.0/Batteries not stolen.jpg" alt="logo" width="300" height="auto" />
+
+
+</div>
+
+
+<div align="right"> 
+  <h3>Epoxy with outer shell covering; Known as a "Big-Red"</h3>
+   <img src="BatteryUnlockSoftware1.0/Batteries not stolen.jpg" alt="logo" width="300" height="auto" />
+
+
 </div>
 
 
