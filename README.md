@@ -9,7 +9,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 <div align="center">
 
 
-  <img src="BatteryUnlockSoftware1.0/Vodacom icon.png" alt="logo" width="200" height="auto" />
+  <img src="BatteryUnlockSoftware1.0/Vodacom icon.png" alt="logo" width="150" height="auto" />
   <h1>Battery Unlock Software 1.0</h1>
   
   <p>
