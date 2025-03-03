@@ -34,7 +34,7 @@ Vodacom has noticed an increase in the number of battery theft and vandalism inc
 ### Existing Solution
 
 <p align="center">
-  <img src="BatteryUnlockSoftware1.0/Batteries not stolen.jpg" width="45%" />
+  <img src="BatteryUnlockSoftware1.0/Batteries not stolen2.jpg" width="45%" />
   <img src="BatteryUnlockSoftware1.0/Batteries stolen.jpg" width="45%" /> 
 </p>
 
