@@ -16,7 +16,7 @@ Maybe you can mention me or this repo in the acknowledgements too
     Alternate Security method for installation and maintainence of batteries 
   </p>
   
-  
+  <br><br>
 
 
 
@@ -28,25 +28,15 @@ Maybe you can mention me or this repo in the acknowledgements too
 Vodacom has noticed an increase in the number of battery theft and vandalism incidents on its base stations in certain parts of the country.
 "Battery theft and vandalism at our base stations continues to be a huge challenge for the telco sector. Although incidents of battery theft and vandalism have been stable in some regions with no significant increase in the amount of incidents being experienced, in September alone our operations in KwaZulu-Natal, Mpumalanga and Northern Gauteng regions recorded the highest number of attempted thefts, each accounting for 40% or more of such incidents. These criminal activities cause disruptions to network services, resulting in frequent downtime for customers. The consequences go beyond the costs of repairing and restoring infrastructure. They have a significant impact on communities that depend on connectivity as a vital lifeline," says Johan van Graan, Chief Risk Officer at Vodacom Group.
 
-
+<br><br><br>
 
 <!-- Screenshots -->
 ### Existing Solution
 
-<div align="left"> 
-  <h3>Epoxy with outer shell covering; Known as a "Big-Red"</h3>
-   <img src="BatteryUnlockSoftware1.0/Batteries not stolen.jpg" alt="logo" width="300" height="auto" />
-
-
-</div>
-
-
-<div align="right"> 
-  <h3>Epoxy with outer shell covering; Known as a "Big-Red"</h3>
-   <img src="BatteryUnlockSoftware1.0/Batteries not stolen.jpg" alt="logo" width="300" height="auto" />
-
-
-</div>
+<p align="center">
+  <img src="BatteryUnlockSoftware1.0/Batteries not stolen.jpg" width="45%" />
+  <img src="BatteryUnlockSoftware1.0/Batteries stolen.jpg" width="45%" /> 
+</p>
 
 
 <!-- TechStack -->
