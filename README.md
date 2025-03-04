@@ -47,12 +47,8 @@ This companion program is to be run in tandem with custom built access device, i
 </p>
 
 
-<!-- Features -->
-### Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+
 
 
 
