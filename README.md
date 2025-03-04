@@ -23,55 +23,28 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 
 <!-- About the Project -->
-## About the Project
 
+<details>
+<summary>Preface</summary>
+<ul>
 Vodacom has noticed an increase in the number of battery theft and vandalism incidents on its base stations in certain parts of the country.
 "Battery theft and vandalism at our base stations continues to be a huge challenge for the telco sector. Although incidents of battery theft and vandalism have been stable in some regions with no significant increase in the amount of incidents being experienced, in September alone our operations in KwaZulu-Natal, Mpumalanga and Northern Gauteng regions recorded the highest number of attempted thefts, each accounting for 40% or more of such incidents. These criminal activities cause disruptions to network services, resulting in frequent downtime for customers. The consequences go beyond the costs of repairing and restoring infrastructure. They have a significant impact on communities that depend on connectivity as a vital lifeline," says Johan van Graan, Chief Risk Officer at Vodacom Group.
-
+</ul>
+  </details>
 <br><br><br>
 
 <!-- Screenshots -->
-### Existing Solution
 
-<p align="center">
-  <img src="BatteryUnlockSoftware1.0/Batteries not stolen2.jpg" width="45%" />
-  <img src="BatteryUnlockSoftware1.0/Batteries stolen.jpg" width="45%" /> 
-</p>
 
 
 <!-- TechStack -->
-### Tech Stack
+### About the project 
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a href="https://go.dev/">Golang</a></li>
-    <li><a href="https://nestjs.com/">Nest.js</a></li>
-    <li><a href="https://socket.io/">SocketIO</a></li>
-    <li><a href="https://www.prisma.io/">Prisma</a></li>    
-    <li><a href="https://www.apollographql.com/">Apollo</a></li>
-    <li><a href="https://graphql.org/">GraphQL</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-
-</details>
-
+<p>
+ Authentication system, with biometric for site side, and 2FA through contact with NOC. The solution was built to run reliably in realistic site enviroments which often time there is no access to internet therfore no external authentication allowed. Alternate options had to be thought of in order to provide a more secure relible and easy solution.
+This companion program is to be run in tandem with custom built access device, in order to gain install/recover batteries. 
+  Along 
+</p>
 
 
 <!-- Features -->
